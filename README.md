@@ -37,12 +37,3 @@ Yes! We are available for hire. Visit [our homepage](http://akveo.com/) or simpl
 * Charts (amChart, Chartist, Chart.js, Morris)
 * Maps (Google, Leaflet, amMap)
 * etc
-
-License
--------------
-<a href=/LICENSE.txt target="_blank">MIT</a> license.
-
-### From akveo
-
-Enjoy!
-We're always happy to hear your feedback.
